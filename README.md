@@ -1,0 +1,1 @@
+# igti-painel-escala-rgb

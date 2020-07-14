@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel de Escala RGB</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+
+    
+    <div id="painel">
+        <h1>Painel RGB</h1>
+        <div id="red" class="linha">
+            <div class="titulo">(R) - Vermelho</div>
+            <input type="range" id="inputR" min="0" max="255" class="range">
+            <input type="text" id="valorR" class="valor">
+        </div>
+        <div id="green" class="linha">
+            <div class="titulo">(G) - Verde</div>
+            <input type="range" id="inputG" min="0" max="255" class="range">
+            <input type="text" id="valorG" class="valor">
+        </div>
+        <div id="blue" class="linha">
+            <div class="titulo">(B) - Azul</div>
+            <input type="range" id="inputB" min="0" max="255" class="range">
+            <input type="text" id="valorB" class="valor">
+        </div>
+        <div id="corFinal">
+
+        </div>
+    </div>
+
+
+    <script src="./js/script.js"></script>
+</body>
+</html>

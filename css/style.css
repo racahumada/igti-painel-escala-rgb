@@ -1,0 +1,48 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Consolas;
+}
+
+#painel {
+    margin: 0 auto;
+    width: 40vw;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0px 20px 0px;
+}
+
+div.linha {
+    padding: 0px 20px 0px 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.titulo { 
+    width: 40%;
+    padding: 20px 0px 20px 0px;
+}
+
+input {
+    margin: 5px;
+}
+
+input.range {
+    width: 75%;
+}
+
+input.valor {
+    width: 25%;
+    border: 1px solid #c3c3c3;
+}
+
+#corFinal {
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+    border: 1px solid #c3c3c3;
+    border-radius: 15px;
+}

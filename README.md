@@ -7,13 +7,13 @@
 
 
 ### Objetivos da atividade
-&radic; Utilização de elementos HTML.
-&radic; Utilização de CSS.
-&radic; Utilização de identificadores em elementos HTML.
-&radic; Captura de referência de elementos com JavaScript.
-&radic; Manipulação de eventos com JavaScript.
-&radic; Utilização de funções com JavaScript e CSS.
-&radic; Manipulação direta de CSS com JavaScript.
+- Utilização de elementos HTML.
+- Utilização de CSS.
+- Utilização de identificadores em elementos HTML.
+- Captura de referência de elementos com JavaScript.
+- Manipulação de eventos com JavaScript.
+- Utilização de funções com JavaScript e CSS.
+- Manipulação direta de CSS com JavaScript.
 
 ### Enunciado
 Construir um painel para a visualização das cores a partir da escala RGB, utilizando HTML, CSS e JavaScript puro.
